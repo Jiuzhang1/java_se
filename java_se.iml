@@ -31,5 +31,6 @@
     <orderEntry type="library" name="asiabao-data-platform-model-1.0-SNAPSHOT" level="project" />
     <orderEntry type="library" name="sanywind-platform-1.1.3.20200504-SNAPSHOT" level="project" />
     <orderEntry type="library" name="asiabao-data-platform-1.0-SNAPSHOT (4)" level="project" />
+    <orderEntry type="library" name="slf4j-api-1.7.21" level="project" />
   </component>
 </module>
