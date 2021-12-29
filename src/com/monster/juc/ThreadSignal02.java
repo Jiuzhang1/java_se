@@ -13,7 +13,6 @@ public class ThreadSignal02 {
 
     public static void main(String[] args) {
         Lock lock = new ReentrantLock();
-        ReentrantLock lock1;
         Condition condition = lock.newCondition();
         new Thread(()->{
             try{
